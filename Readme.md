@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Анастасия Самойленко](https://up.htmlacademy.ru/htmlcss/40/user/2436639).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
