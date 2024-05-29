@@ -2,6 +2,7 @@
 
 * Студент: [Анастасия Самойленко](https://up.htmlacademy.ru/htmlcss/40/user/2436639).
 * Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
+* Сайт: [Проект Седона](https://samoylenkoasya10.github.io/2436639-sedona-40/)
 
 ---
 
